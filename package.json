@@ -11,7 +11,7 @@
     "webpack": "^3.10.0"
   },
   "devDependencies": {
-    "http-server": "^0.11.1"
+    "http-server": "^0.11.2"
   },
   "scripts": {
     "start": "webpack && http-server -o",
